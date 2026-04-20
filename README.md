@@ -1,8 +1,27 @@
-# Well Monitoring Dashboard
+# 🛢️ Well Monitoring Dashboard
 
-Production-focused frontend for real-time well surveillance, alarm visibility, and short-horizon production trend analysis.
+<p>
+  Real-time oil & gas well monitoring dashboard with maps, KPIs, alarms and production analytics.
+</p>
 
-![Dashboard Demo](public/demo.gif)
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-8-purple?logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38bdf8?logo=tailwindcss)
+![Recharts](https://img.shields.io/badge/Recharts-Charts-orange)
+![Leaflet](https://img.shields.io/badge/Leaflet-Maps-green?logo=leaflet)
+![Zustand](https://img.shields.io/badge/Zustand-State-black)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-Data-red)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?logo=githubactions)
+
+</p>
 
 ## Highlights
 
