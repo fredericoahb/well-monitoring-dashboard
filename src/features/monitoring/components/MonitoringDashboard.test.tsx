@@ -11,7 +11,7 @@ describe('MonitoringDashboard', () => {
       </QueryClientProvider>,
     )
     await waitFor(() => {
-      expect(screen.getByText('Peregrino A-101')).toBeInTheDocument()
+      expect(screen.getByText('Well Alpha-01')).toBeInTheDocument()
     })
   })
 })
