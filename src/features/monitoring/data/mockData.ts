@@ -1,4 +1,3 @@
-import type { Well } from '@/features/monitoring/types'
 
 // função helper (já deve existir no seu projeto)
 function buildSeries(seed: number, points: number, intervalHours: number) {
